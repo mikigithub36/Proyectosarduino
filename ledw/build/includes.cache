@@ -1,0 +1,147 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\variants\\lolin32-lite"
+  },
+  {
+    "Sourcefile": "c:\\Users\\mpcom\\ProyectosArduino\\build\\sketch\\ledw.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\mpcom\\ProyectosArduino\\build\\sketch\\ledw.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\mpcom\\ProyectosArduino\\build\\sketch\\ledw.ino.cpp",
+    "Include": "Network.h",
+    "Includepath": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\mpcom\\ProyectosArduino\\build\\sketch\\ledw.ino.cpp",
+    "Include": "WiFiClientSecure.h",
+    "Includepath": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\NetworkClientSecure\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\mpcom\\ProyectosArduino\\build\\sketch\\ledw.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\PubSubClient\\PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\ThingESPClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\thingesp\\Device.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\thingesp\\Logger.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\thingesp\\Message.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\Documents\\Arduino\\libraries\\ThingESP\\src\\thingesp\\RateLimiter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\AP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\STA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\WiFi\\src\\WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkEvents.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkInterface.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkManager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Network\\src\\NetworkUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\NetworkClientSecure\\src\\NetworkClientSecure.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mpcom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\NetworkClientSecure\\src\\ssl_client.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

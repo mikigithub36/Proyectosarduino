@@ -1,0 +1,7 @@
+{
+    "sketch": "ledw.ino",
+    "output": "build",
+    "board": "esp32:esp32:lolin32-lite",
+    "configuration": "FlashFreq=80,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "port": "COM4"
+}
